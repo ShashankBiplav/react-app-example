@@ -1,6 +1,5 @@
 import React from 'react';
 import classes from './Person.module.css';
-import styled from 'styled-components';
 
 const person = (props) => {
   // const style ={
